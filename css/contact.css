@@ -1,0 +1,31 @@
+body{
+    background-color:lightsteelblue
+}
+.card-panel{
+width: 500px;
+margin: 50px auto;
+display: flex;
+
+}
+
+.fa-whatsapp{
+    color:limegreen;
+    font-size: 70px;
+    cursor: pointer;
+
+}
+
+.fa-facebook-official{
+    font-size: 70px;
+    color: #1877f2;
+}
+
+.fa-twitter{
+    font-size: 70px;
+    color: dodgerblue;
+}
+.Faq{
+display: flexbox;
+align-items: center;
+
+}

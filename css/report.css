@@ -1,0 +1,23 @@
+.form-group {
+    margin-top: 1rem;
+}
+
+.form-group input,select {
+    padding: 0.5rem 0.25rem;
+    border: 1px solid gray;
+}
+body{ background-image: url("../images/GBV2.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 100%;
+     
+}
+footer {
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar a:hover{
+    color: red
+}

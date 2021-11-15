@@ -1,0 +1,36 @@
+body { background-image: url("../images/Gbv.image1.jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+    height: 100%;
+    color: white
+}
+.navbar a:hover{
+    color: red
+}
+
+p {
+    font-size: 1.5em; /* 14px/16=1em */
+  }
+  
+  /* Navigation*/
+    
+  .h1
+  {text-align: center;
+    display: block;
+    text-transform: capitalize;
+    color: cyan;
+    align-items: center;
+    
+
+  }
+    
+
+    
+   
+   
+    
+       
+
+
+

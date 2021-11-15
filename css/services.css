@@ -1,0 +1,22 @@
+body{background-image: url("../images/GBV3.jfif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 100%;
+     color: ghostwhite;
+
+
+
+}
+
+footer {
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar a:hover{
+    color: red
+}
+.counselling{
+    background-color: var(--bg-overlay-color); 
+}
